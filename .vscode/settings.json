@@ -27,6 +27,8 @@
       "commands": [ ":nohl"]
     }
   ],
+  "editor.autoClosingQuotes": "always",
+
   "debug.console.fontSize": 12,
   "markdown.preview.fontSize": 12,
   "editor.tabSize": 2,

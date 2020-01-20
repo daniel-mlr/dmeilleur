@@ -12,7 +12,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-tailwind-emotion-starter',
+        name: 'gatsby-tailwind-emotion-starter', // à changer ?
         short_name: 'starter',
         start_url: '/',
         background_color: '#663399',

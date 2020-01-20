@@ -8,7 +8,7 @@ import Header from './header'
 import './layout.css'
 
 const Content = styled.div`
-  ${tw`px-32 py-8 font-sans`};
+  ${tw`px-32 py-8 font-sans text-grey-darker`};
 `
 
 const Layout = ({ children }) => (
