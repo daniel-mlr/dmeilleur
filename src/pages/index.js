@@ -7,7 +7,7 @@ const IndexPage = () => (
   // hero
   <Layout>
     <Hero />
-    <p>Ici sera le nouveau site dmeilleur.com</p>
+    <p>Show the facts! Let the <span>data</span> do the talking.</p>
     <p>Bâti à partir du starter Gatsby Tailwind Emotion</p>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
