@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'react-emotion'
-import Plain from '../../assets/data-sc1-plain.svg'
+// import Plain from '../../assets/data-sc1-plain.svg'
+import Plain from '../../assets/data-sc-boxy.svg'
 
 const Purpose = styled.p`
   ${tw`uppercase tracking-loose w-full`}

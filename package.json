@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Daniel Meilleur <daniel.meilleur@gmail.com>",
   "dependencies": {
+    "@svgdotjs/svg.js": "^3.0.16",
     "emotion": "^9.2.12",
     "emotion-server": "^9.2.12",
     "gatsby": "^2.0.0",
